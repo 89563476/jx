@@ -1,0 +1,21 @@
+.Iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  background-color: #000;
+}
+
+.Loading {
+  color: #fff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  z-index: 9999;
+  background-color: #000;
+}
