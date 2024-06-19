@@ -1,7 +1,7 @@
 {
   "name": "video-parse",
   "private": true,
-  "version": "1.2.8",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
