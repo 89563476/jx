@@ -79,7 +79,7 @@ export default function FloatIcon() {
         <div style={{ position: "absolute", top: 0, left: 32, width: 200, zIndex: 1, backgroundColor: "#fff", borderRadius: 4, border: "1px solid #f5f5f5", boxShadow: "rgba(0, 0, 0, 0.04) 0px 12px 32px 4px, rgba(0, 0, 0, 0.08) 0px 8px 20px" }}
           className={isHide ? styles.Hidden : styles.Visible}>
           <Row justify="start" style={{ padding: 8, backgroundColor: "#f5f7fa", borderTopLeftRadius: 4, borderTopRightRadius: 4, }}>
-            <Col flex="auto" style={{ fontWeight: "bold", color: "#000" }}>落雪视频解析</Col>
+            <Col flex="auto" style={{ fontWeight: "bold", color: "#000" }}>靳十二视频解析</Col>
             {/* <Col flex="none"> */}
             {/* <Switch defaultChecked onChange={onChange} /> */}
             {/* </Col> */}

@@ -49,7 +49,7 @@ function currentActiveFun(index: number) {
     },
     // duration: 9999,
     key,
-    content: `当前线路：${parseList[index].name}`,
+    content: `靳十二提示您当前线路为：${parseList[index].name}`,
   });
   // const doc = getIframeWindow();
   // doc &&
