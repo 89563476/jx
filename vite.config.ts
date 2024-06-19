@@ -28,7 +28,6 @@ export default defineConfig({
         ],
         include: ["/^http(s?):\/\/.*?(url|vid|jx|v|ref)=http(s?):\/\/.*$/"],
         "run-at": "document-end",
-        "require": ["file://D:\video-parse-master\dist\video-parse.user.js"],
       },
       build: {
         systemjs: "inline",
