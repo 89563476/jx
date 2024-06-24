@@ -12,7 +12,7 @@ export default defineConfig({
       entry: "src/main.tsx",
       userscript: {
         version,
-        name: "靳十二VIP视频解析",
+        name: "靳十二VIP视频解析 长期更新 免费观看",
         description:
           "🔥支持腾讯视频、爱奇艺、优酷、土豆、芒果TV、搜狐视频、乐视视频、PPTV、风行、华数TV、哔哩哔哩等，🔥支持多个解析接口切换，支持视频自由选集，🔥自动解析视频，🔥支持自定义拖拽位置，🔥支持视频广告跳过，🔥支持页内解析",
         author: "jin12",
